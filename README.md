@@ -1,7 +1,5 @@
 # react-native-rating-stars
 
-Currently, this repo is not uploaded to npm, just copy all files in ./src folder, and used as a components of react native.
-
 This code is using @expo/vector-icons@13.0.0, please install the library before use it if you are not using Expo.
 
 Link to @expo/vector-icons@13.0.0: https://www.npmjs.com/package/@expo/vector-icons
