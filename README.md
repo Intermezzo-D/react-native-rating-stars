@@ -21,7 +21,14 @@ export default function Rating() {
 
   return (
     <View style={styles.container}>
-      <StarRating starNums={5} defaultRating={3} starSize={32} starColor={"#ebb434"} starSpace={5} onSelect={onSelect} />
+      <StarRating
+        starNums={5}
+        defaultRating={3}
+        starSize={32}
+        starColor={"#ebb434"}
+        starSpace={5}
+        onSelect={onSelect}
+      />
     </View>
   )
 }
